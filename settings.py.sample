@@ -1,0 +1,9 @@
+# !/usr/bin/env python3
+
+SMTP_USER='username'
+SMTP_PASS='password'
+
+AWS_ACCESS_ID='access_id'
+AWS_ACCESS_SECRET='secret_key'
+
+IAM_GROUP='cx-academy'
